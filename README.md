@@ -4,7 +4,7 @@ Repo to Keep Track of Code and things I'm doing . . .late at night. . . .
 ### Overlays
 * [ ] Countdown 
 * [ ] Heart Firework
-* [X] Midnight Pumpkin Alarm
+* [ ] Midnight Pumpkin Alarm (in progress, but it needs StyleGAN pumpkins)
 * [ ] Live Poll Overlay
 * [ ] Random Dad Joke Overlay (more information under **Discord Bot Stuff** below)
 
