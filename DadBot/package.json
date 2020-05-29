@@ -1,0 +1,29 @@
+{
+  "name": "DadBot",
+  "version": "1.0.0",
+  "description": "## TODO",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src/",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodingTrain/LateNight.git"
+  },
+  "keywords": [],
+  "author": "Daniel Shiffman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodingTrain/LateNight/issues"
+  },
+  "homepage": "https://github.com/CodingTrain/LateNight/#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
